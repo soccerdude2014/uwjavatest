@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Greetings!
 This exercise is designed to test your ability to compile Java programs, modifying Java source code
 as necessary to make that happen.
@@ -118,3 +119,6 @@ Fire away, to either me or the TA.
 [1]: http://www.gradle.org
 [2]: http://brew.sh/
 [3]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+=======
+# uwjavatest
+>>>>>>> 10c80fe96abe44be410ea9e5cd5cb8de1762a8a1
