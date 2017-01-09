@@ -22,6 +22,7 @@ public class Person implements Comparable<Person> {
     name = n;
     age = a;
     salary = s;
+    ssn = "";
     this.instanceCount++;
   }
   
